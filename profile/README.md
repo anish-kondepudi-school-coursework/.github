@@ -1,0 +1,3 @@
+# UC Davis Undergrad Coursework Repository
+
+Hey there! My name is Anish, and I'm a Computer Science student in the College of Letters & Science at the University of California, Davis. I have created this GitHub organization as a personal repository to store and manage all my undergraduate coursework, projects, assignments, and submissions from 2020 to 2023. Here, you'll find a comprehensive collection of materials representing my academic journey at UC Davis. Note most of my work is private since it would be unethical to release them publicly.
